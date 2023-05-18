@@ -1,1 +1,13 @@
-triadic colour scheme, washed colour, primary, secondary, pastel, monochrome, technicolor
+triadic colour scheme
+washed colour
+primary colors
+secondary colors
+pastel colors
+monochrome
+technicolor
+black and white
+analogous colors
+complementary colors
+split complementary colors
+Square color scheme
+rectangle color scheme
